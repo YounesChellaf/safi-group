@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="892defe5-71a3-405e-b818-ff01163c3de4" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/Procfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/landing.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/landing.blade.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -29,12 +29,12 @@
         <entry file="file://$PROJECT_DIR$/Procfile">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="5" selection-start-column="5" selection-end-column="5" />
+              <caret column="25" lean-forward="true" selection-start-column="25" selection-end-column="25" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".env" pinned="false" current-in-tab="true">
+      <file leaf-file-name=".env" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.env">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="92">
@@ -43,11 +43,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="landing.blade.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="landing.blade.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/resources/views/landing.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2442">
-              <caret line="119" column="30" lean-forward="true" selection-start-line="119" selection-start-column="30" selection-end-line="119" selection-end-column="30" />
+            <state relative-caret-position="327">
+              <caret line="159" column="56" selection-start-line="159" selection-start-column="56" selection-end-line="159" selection-end-column="56" />
               <folding>
                 <element signature="e#5277#5331#0#HTML" expanded="true" />
                 <element signature="e#5272#5308#0#HTML" expanded="true" />
@@ -135,10 +135,10 @@
         <option value="$PROJECT_DIR$/routes/web.php" />
         <option value="$PROJECT_DIR$/public/assets/css/style.css" />
         <option value="$PROJECT_DIR$/resources/views/fields/legal.blade.php" />
-        <option value="$PROJECT_DIR$/resources/views/landing.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/fields/it.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/home.blade.php" />
         <option value="$PROJECT_DIR$/.env" />
+        <option value="$PROJECT_DIR$/resources/views/landing.blade.php" />
       </list>
     </option>
   </component>
@@ -352,12 +352,12 @@
       <workItem from="1572888905828" duration="870000" />
       <workItem from="1572911088102" duration="129000" />
       <workItem from="1572994763024" duration="178000" />
-      <workItem from="1573077077409" duration="2457000" />
+      <workItem from="1573077077409" duration="2731000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11114000" />
+    <option name="totallyTimeSpent" value="11388000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -369,8 +369,8 @@
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info id="npm" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32848486" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2639485" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32848486" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2639485" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -670,27 +670,6 @@
     <entry file="file://$PROJECT_DIR$/public/assets/img/doctor.svg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/landing.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2442">
-          <caret line="119" column="30" lean-forward="true" selection-start-line="119" selection-start-column="30" selection-end-line="119" selection-end-column="30" />
-          <folding>
-            <element signature="e#5277#5331#0#HTML" expanded="true" />
-            <element signature="e#5272#5308#0#HTML" expanded="true" />
-            <element signature="e#5971#6025#0#HTML" expanded="true" />
-            <element signature="e#6115#6149#0#HTML" expanded="true" />
-            <element signature="e#6475#6529#0#HTML" expanded="true" />
-            <element signature="e#6471#6501#0#HTML" expanded="true" />
-            <element signature="e#6940#6994#0#HTML" expanded="true" />
-            <element signature="e#7417#7451#0#HTML" expanded="true" />
-            <element signature="e#8140#8194#0#HTML" expanded="true" />
-            <element signature="e#8142#8176#0#HTML" expanded="true" />
-            <element signature="e#8546#8600#0#HTML" expanded="true" />
-            <element signature="e#8685#8710#0#HTML" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/resources/views/fields/it.blade.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="218">
@@ -705,17 +684,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Procfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="5" selection-start-column="5" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.env">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="92">
           <caret line="4" column="7" selection-start-line="4" selection-end-line="4" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Procfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="25" lean-forward="true" selection-start-column="25" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/landing.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="327">
+          <caret line="159" column="56" selection-start-line="159" selection-start-column="56" selection-end-line="159" selection-end-column="56" />
+          <folding>
+            <element signature="e#5277#5331#0#HTML" expanded="true" />
+            <element signature="e#5272#5308#0#HTML" expanded="true" />
+            <element signature="e#5971#6025#0#HTML" expanded="true" />
+            <element signature="e#6115#6149#0#HTML" expanded="true" />
+            <element signature="e#6475#6529#0#HTML" expanded="true" />
+            <element signature="e#6471#6501#0#HTML" expanded="true" />
+            <element signature="e#6940#6994#0#HTML" expanded="true" />
+            <element signature="e#7417#7451#0#HTML" expanded="true" />
+            <element signature="e#8140#8194#0#HTML" expanded="true" />
+            <element signature="e#8142#8176#0#HTML" expanded="true" />
+            <element signature="e#8546#8600#0#HTML" expanded="true" />
+            <element signature="e#8685#8710#0#HTML" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
