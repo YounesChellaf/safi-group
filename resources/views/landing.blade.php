@@ -208,9 +208,11 @@
 
                 <div class="owl-carousel clients-carousel">
                     <a href="https://claim24.nl/" target="_blank"><img src="{{asset('assets/img/claim.png')}}" alt=""></a>
-                    <a href="https://claim24.nl/" target="_blank"><img src="{{asset('assets/img/claim.png')}}" alt=""></a>
-                    <a href="https://claim24.nl/" target="_blank"><img src="{{asset('assets/img/claim.png')}}" alt=""></a>
-                    <a href="https://claim24.nl/" target="_blank"><img src="{{asset('assets/img/claim.png')}}" alt=""></a>
+                    <a href="#" target="_blank"></a>
+                    <a href="#" target="_blank"></a>
+                    <a href="#" target="_blank"></a>
+                    <a href="#" target="_blank"></a>
+                    <a href="#" target="_blank"></a>
                 </div>
 
             </div>
