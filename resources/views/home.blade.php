@@ -89,10 +89,11 @@ Header
                                 <div class="footer-links">
                                     <h4>Contact Us</h4>
                                     <p>
-                                        Schipol Street <br>
+                                        Schenkkade 50<br>
+                                        2595AR Den Haag<br>
                                         Netherlands <br>
-                                        <strong>Phone:</strong> +0 00 000 000 000<br>
-                                        <strong>Email:</strong> info@safi.nl<br>
+                                        <strong>Phone:</strong>+31203033013<br>
+                                        <strong>Email:</strong>Info@safi.nl<br>
                                     </p>
                                 </div>
 

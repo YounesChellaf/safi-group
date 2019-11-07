@@ -78,7 +78,8 @@
                                 <img src="{{asset('assets/img/insurence.svg')}}" alt="" style="width: 50%; margin-top: 5%">
                             </div>
                             <h4 class="title"><a href="{{route('insurance')}}">Insurance</a></h4>
-                            <p class="description">Insurance is one of the oldest and most reliable investments in the country and the world</p>
+                            <p class="description">Insurance is one of the oldest and most reliable investments in the country and the world ...
+                                <a href="{{route('insurance')}}">More details</a></p>
                         </div>
                     </div>
                     <div class="col-md-6 col-lg-4 wow bounceInUp" data-wow-duration="1.4s">
@@ -87,7 +88,8 @@
                                 <img src="{{asset('assets/img/legal.svg')}}" alt="" style="width: 50%; margin-top: 5%">
                             </div>
                             <h4 class="title"><a href="{{route('legal')}}">Legal</a></h4>
-                            <p class="description">Minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat tarad limino ata</p>
+                            <p class="description">The legal industry is one of the cornerstones of our investment portfolio due to the sustained ... <a href="{{route('legal')}}">More details</a></p>
+
                         </div>
                     </div>
 
@@ -97,7 +99,7 @@
                                 <img src="{{asset('assets/img/sale.svg')}}" alt="" style="width: 50%; margin-top: 5% ">
                             </div>
                             <h4 class="title"><a href="{{route('trading')}}">Trading</a></h4>
-                            <p class="description">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur</p>
+                            <p class="description">World trade and commerce is always happening in every second of every day. The volume of dollars ... <a href="{{route('trading')}}">More details</a></p>
                         </div>
                     </div>
                     <div class="col-md-6 col-lg-4 wow bounceInUp" data-wow-delay="0.1s" data-wow-duration="1.4s">
@@ -106,7 +108,7 @@
                                 <img src="{{asset('assets/img/doctor.svg')}}" alt="" style="width: 60%; margin-top: 5%">
                             </div>
                             <h4 class="title"><a href="{{route('medical')}}">Medical</a></h4>
-                            <p class="description">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</p>
+                            <p class="description">In many areas of the world, including the United States, healthcare is the largest industry in ... <a href="{{route('medical')}}">More details</a></p>
                         </div>
                     </div>
 
@@ -116,7 +118,7 @@
                                 <img src="{{asset('assets/img/technology.svg')}}" alt="" style="width: 50%; margin-top: 5%">
                             </div>
                             <h4 class="title"><a href="{{route('it')}}">Information Technology</a></h4>
-                            <p class="description">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque</p>
+                            <p class="description">As the world continues to move forward, it continues to be proven that infromation technology ... <a href="{{route('it')}}">More details</a></p>
                         </div>
                     </div>
                     <div class="col-md-6 col-lg-4 wow bounceInUp" data-wow-delay="0.2s" data-wow-duration="1.4s">
@@ -125,7 +127,7 @@
                                 <img src="{{asset('assets/img/icon.svg')}}" alt="" style="margin-bottom: 5%">
                             </div>
                             <h4 class="title"><a href="{{route('mining')}}">Mining</a></h4>
-                            <p class="description">Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi</p>
+                            <p class="description">Many don’t think of mining as being one of the world’s largest industries anymore and as such ... <a href="{{route('mining')}}">More details</a></p>
                         </div>
                     </div>
 
@@ -182,35 +184,13 @@
                                     <h4>Bahir Safi</h4>
                                     <span>Chief Executive Officer</span>
                                     <div class="social">
-                                        <a href=""><i class="fa fa-twitter"></i></a>
-                                        <a href=""><i class="fa fa-facebook"></i></a>
-                                        <a href=""><i class="fa fa-google-plus"></i></a>
-                                        <a href=""><i class="fa fa-linkedin"></i></a>
+                                        <a href="#"><i class="fa fa-google-plus"></i></a>
+                                        <a href="https://www.linkedin.com/in/bahir-safi-38398b16b/" target="_blank"><i class="fa fa-linkedin"></i></a>
                                     </div>
                                 </div>
                             </div>
                         </div>
                     </div>
-
-                    <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
-                        <div class="member">
-                            <img src="{{asset('assets/img/Elham.jpeg')}}" class="img-fluid" alt="">
-                            <div class="member-info">
-                                <div class="member-info-content">
-                                    <h4>Elham Sedighi</h4>
-                                    <span>Project Manager</span>
-                                    <div class="social">
-                                        <a href=""><i class="fa fa-twitter"></i></a>
-                                        <a href=""><i class="fa fa-facebook"></i></a>
-                                        <a href=""><i class="fa fa-google-plus"></i></a>
-                                        <a href=""><i class="fa fa-linkedin"></i></a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-
                 </div>
 
             </div>

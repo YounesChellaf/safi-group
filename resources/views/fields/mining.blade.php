@@ -8,7 +8,7 @@
 
                     <div class="col-lg-5 col-md-6" style="margin-top: 15%">
                         <div class="about-img">
-                            <img src="{{asset('assets/img/personel-pic.jpeg')}}" alt="" >
+                            <img src="{{asset('assets/img/mining.jpeg')}}" alt="" >
                         </div>
                     </div>
 
